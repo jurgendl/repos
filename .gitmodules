@@ -1,0 +1,3 @@
+[submodule "a-star-pathfinding"]
+	path = a-star-pathfinding
+	url = https://github.com/jurgendl/a-star-pathfinding

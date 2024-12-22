@@ -1,0 +1,1 @@
+git submodule add <URL_of_other_repository> <path_to_folder>
