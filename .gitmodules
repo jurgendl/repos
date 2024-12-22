@@ -1,3 +1,9 @@
 [submodule "a-star-pathfinding"]
 	path = a-star-pathfinding
 	url = https://github.com/jurgendl/a-star-pathfinding
+[submodule "traveling-salesman"]
+	path = traveling-salesman
+	url = https://github.com/jurgendl/traveling-salesman
+[submodule "binary-tree"]
+	path = binary-tree
+	url = https://github.com/jurgendl/binary-tree

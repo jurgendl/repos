@@ -1,1 +1,14 @@
 git submodule add <URL_of_other_repository> <path_to_folder>
+
+## Related Repositories
+- [My Other Project](https://github.com/username/other-repo)
+
+
+
+
+git submodule add --branch <branch-name> <repository-URL> <path-to-folder>
+
+git clone --recurse-submodules <repository-URL>
+
+## Related Repositories
+Check out the [dev branch of Other Repo](https://github.com/username/other-repo/tree/dev).
