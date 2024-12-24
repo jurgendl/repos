@@ -12,6 +12,7 @@ links to other repositories and in the case of [deployed web apps](https://githu
 - [Traveling Salesman](https://github.com/jurgendl/traveling-salesman)
 - [Binary Tree](https://github.com/jurgendl/binary-tree)
 - [Angular Bootstrapped](https://github.com/jurgendl/bootstrap-angular)
+- [Vite Bootstrapped](https://github.com/jurgendl/vite-seed)
 
 ### Tabletop RPG
 - [RPG Toolbag](https://github.com/jurgendl/rpg-toolbag)
