@@ -34,3 +34,6 @@
 [submodule "vite-seed"]
 	path = vite-seed
 	url = https://github.com/jurgendl/vite-seed
+[submodule "webpack-seed"]
+	path = webpack-seed
+	url = https://github.com/jurgendl/webpack-seed
