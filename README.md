@@ -20,3 +20,4 @@ links to other repositories and in the case of [deployed web apps](https://githu
 ### Computer Gaming
 - [Valheim: Food](https://github.com/jurgendl/valheim-food)
 - [W40k Inquisitor Martyr](https://github.com/jurgendl/w40k-inquisitor-martyr)
+- [7D2D: Food](https://github.com/jurgendl/7d2d-helpers)

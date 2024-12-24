@@ -28,3 +28,6 @@
 [submodule "bootstrap-angular"]
 	path = bootstrap-angular
 	url = https://github.com/jurgendl/bootstrap-angular
+[submodule "7d2d-helpers"]
+	path = 7d2d-helpers
+	url = https://github.com/jurgendl/7d2d-helpers
