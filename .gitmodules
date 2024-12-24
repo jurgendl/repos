@@ -22,3 +22,9 @@
 [submodule "valheim-food"]
 	path = valheim-food
 	url = https://github.com/jurgendl/valheim-food
+[submodule "w40k-inquisitor-martyr"]
+	path = w40k-inquisitor-martyr
+	url = https://github.com/jurgendl/w40k-inquisitor-martyr
+[submodule "bootstrap-angular"]
+	path = bootstrap-angular
+	url = https://github.com/jurgendl/bootstrap-angular
