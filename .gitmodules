@@ -7,3 +7,9 @@
 [submodule "binary-tree"]
 	path = binary-tree
 	url = https://github.com/jurgendl/binary-tree
+[submodule "jhaws"]
+	path = jhaws
+	url = https://github.com/jurgendl/jhaws
+[submodule "hql-builder"]
+	path = hql-builder
+	url = https://github.com/jurgendl/hql-builder
