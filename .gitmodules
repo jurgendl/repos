@@ -13,3 +13,12 @@
 [submodule "hql-builder"]
 	path = hql-builder
 	url = https://github.com/jurgendl/hql-builder
+[submodule "rpg-toolbag"]
+	path = rpg-toolbag
+	url = https://github.com/jurgendl/rpg-toolbag
+[submodule "w40k"]
+	path = w40k
+	url = https://github.com/jurgendl/w40k
+[submodule "valheim-food"]
+	path = valheim-food
+	url = https://github.com/jurgendl/valheim-food

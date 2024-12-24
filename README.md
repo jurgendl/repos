@@ -13,5 +13,8 @@ links to other repositories
 - [Binary Tree](https://github.com/jurgendl/binary-tree)
 
 ### Tabletop RPG
+- [RPG Toolbag](https://github.com/jurgendl/rpg-toolbag)
+- [Warhammer 40k](https://github.com/jurgendl/w40k)
 
 ### Computer Gaming
+- [Valheim: Food](https://github.com/jurgendl/valheim-food)
