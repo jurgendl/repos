@@ -37,3 +37,6 @@
 [submodule "webpack-seed"]
 	path = webpack-seed
 	url = https://github.com/jurgendl/webpack-seed
+[submodule "enshrouded-food"]
+	path = enshrouded-food
+	url = git@github.com:jurgendl/enshrouded-food.git
