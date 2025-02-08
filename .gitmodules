@@ -40,3 +40,6 @@
 [submodule "enshrouded-food"]
 	path = enshrouded-food
 	url = git@github.com:jurgendl/enshrouded-food.git
+[submodule "htmx-example"]
+	path = htmx-example
+	url = git@github.com:jurgendl/htmx-example.git
