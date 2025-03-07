@@ -43,3 +43,6 @@
 [submodule "htmx-example"]
 	path = htmx-example
 	url = git@github.com:jurgendl/htmx-example.git
+[submodule "http-calls"]
+	path = http-calls
+	url = git@github.com:jurgendl/http-calls.git
