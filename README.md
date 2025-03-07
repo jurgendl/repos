@@ -15,6 +15,9 @@ links to other repositories and in the case of [deployed web apps](https://githu
 - [Vite Bootstrapped](https://github.com/jurgendl/vite-seed)
 - [Webpack Bootstrapped](https://github.com/jurgendl/webpack-seed)
 
+###http calls and processing (Windows commandline)
+- [http-calls](https://github.com/jurgendl/http-calls)
+
 ### 
 - [spring-boot with thymeleaf as backend and html as frontend](https://github.com/jurgendl/htmx-example)
 
